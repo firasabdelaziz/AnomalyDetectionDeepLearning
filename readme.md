@@ -39,7 +39,7 @@ This project implements a deep learning approach to detect anomalies in video se
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/AnomalyDetectionDeepLearning.git
+   git clone https://github.com/firasabdelaziz/AnomalyDetectionDeepLearning.git
    cd AnomalyDetectionDeepLearning
    ```
 

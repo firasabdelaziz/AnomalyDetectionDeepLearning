@@ -39,7 +39,7 @@ Salut les gars! Njim n9olek eli el projet hedha ye5dim 3la détection mta3 les c
 
 1. A3mil clone lel repository:
    ```
-   git clone https://github.com/username/AnomalyDetectionDeepLearning.git
+   git clone https://github.com/firasabdelaziz/AnomalyDetectionDeepLearning.git
    cd AnomalyDetectionDeepLearning
    ```
 
